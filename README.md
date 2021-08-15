@@ -4,7 +4,7 @@ The goal of this project is simply to understand customers and separate them int
 
 ## Description
 
-We have some basic data about the mall customers like Customer ID, age, gender, annual income, and spending score. In this case, the Marketing team wants to identify some patterns in these data and to groups of customers accordingly.
+We have some basic data about their customers like Customer ID, age, gender, annual income, and spending score. In this case, the Marketing team wants to identify some patterns in these data and to groups of customers accordingly.
 
 ## Output of the project
 In this project, we want to identify customers' preferences by their annual income and spending score. And to separate them into different groups we use clustering with K-Means algorithm. After cleaning the dataset, we find the optimal number of clusters is between 4 and 6 therefore we are selecting 5 as the number of clusters to divide our dataset.
